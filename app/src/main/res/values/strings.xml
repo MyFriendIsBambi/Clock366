@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Clock366</string>
+
+    <string name="true_Button">True</string>
+    <string name="false_Button">False</string>
+    <string name="next_Button">Next</string>
+    <string name="prev_Button">Prev</string>
+
+
+    <string name="question_Name">Do you like name of app ?</string>
+    <string name="question_Clock">Do you like my clock?</string>
+    <string name="question_Size_Of_Clock">Do you want to set size?</string>
+    <string name="question_Color_Clock">Do you want to chenge color?</string>
+
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+
+</resources>
